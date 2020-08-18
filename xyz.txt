@@ -4,4 +4,8 @@ hi priya
 
 welcome
 hello
+<<<<<<< HEAD
 sujipriya
+=======
+helo suji
+>>>>>>> suji
